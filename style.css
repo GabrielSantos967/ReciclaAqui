@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "roboto";
+    src: url(./Roboto/static/Roboto-Light.ttf);
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -31,6 +36,7 @@ header{
 .box{
     display: flex;
     flex-direction: row;
+    gap: 10px;
 }
 
 .imagem img{
@@ -45,6 +51,32 @@ header{
 
 .formselection:hover{
     cursor: pointer;
+}
+
+#map{
+    height: 100%;
+}
+
+.bnt{
+    border-radius: 10px;
+    background-color: #40B840;
+    border: 2px solid #153611;
+    width: 100px;
+    font-size: 18px;
+}
+
+.bnt:hover{
+    cursor: pointer;
+    background-color: #153611;
+    color: white;
+}
+
+footer{
+    height: 90px;
+    background-color: #40B840;
+    width: auto;
+    padding: 10px;
+    font-family: "roboto";
 }
 
 
@@ -69,5 +101,14 @@ header{
     .mapa{
         height: 50vh;
         width: 90vw;
+    }
+
+    .bnt{
+        width: 80px;
+        font-size: 12px;
+    }
+
+    footer{
+        height: 120px;
     }
 }

@@ -1,0 +1,165 @@
+[
+    {
+        "lat": -25.554527141177154,
+        "lng":  -49.24422119674786,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.52931430722344,
+        "lng": -49.230381604383126,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.53198674415059,
+        "lng": -49.25134235988545,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.550363747507014,
+        "lng": -49.25479788873074,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.5301523774897,
+        "lng": -49.3404127338307,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.490994709170305,
+        "lng": -49.345454292116166,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.46293926669807,
+        "lng": -49.19526892217689,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.579632087115847,
+        "lng": -49.327786204381106,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.550363586289162,
+        "lng": -49.254798571810305,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.491507177514247,
+        "lng": -49.20289780438465,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.421099619546254,
+        "lng": -49.36378063261161,
+        "icon": "lixeira",
+        "tipo": "reciclagem"
+    },
+    {
+        "lat": -25.505376837400433,
+        "lng": -49.26776712078162,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.469100212454535,
+        "lng": -49.25171585524265,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.50213387823564,
+        "lng": -49.22593283287458,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.50316721998613,
+        "lng": -49.22660198160376,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.388226320584423,
+        "lng": -49.23932559351503,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.372587338329364,
+        "lng": -49.19116133695572,
+        "icon": "eletronico",
+        "tipo": "eletronico"
+    },
+    {
+        "lat": -25.372587338329364,
+        "lng": -49.19116133695572,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.47126102268274,
+        "lng": -49.26697503520266,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.43781841254539,
+        "lng": -49.318849904311094,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.402738383816242,
+        "lng": -49.248764950956485,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.470714300528723,
+        "lng": -49.29619292737644,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.473614873341102,
+        "lng": -49.217518930877226,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.401108228044656,
+        "lng": -49.333023431496166,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.496877945394484,
+        "lng": -49.23696832475348,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.442882684801557,
+        "lng": -49.2908230433417,
+        "icon": "pilha",
+        "tipo": "pilha"
+    },
+    {
+        "lat": -25.507162288431086,
+        "lng": -49.286519104383956,
+        "icon": "pilha",
+        "tipo": "pilha"
+    }
+]
+

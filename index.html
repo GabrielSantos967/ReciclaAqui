@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <title>ReciclaAqui</title>
 </head>
 <body>
@@ -12,21 +14,33 @@
             <img src="./ReciclaAqui1.png" alt="">
         </div>
         <div class="box">
-            <select class="formselection" aria-label="Escolha o material" id="">
-                <option value="1" selected>Todos</option>
-                <option value="2">Reciclagem</option>
-                <option value="3">Pilha</option>
-                <option value="4">Eletrônicos</option>
+            <select class="formselection" aria-label="Escolha o material" id="escolha">
+                <option selected>Selecione o material</option>
+                <option value="todos" id="valor">Todos</option>
+                <option value="reciclagem" id="valor">Ecopontos</option>
+                <option value="pilha" id="valor">Pilha</option>
+                <option value="eletronico" id="valor">Eletrônicos</option>
             </select>
+            <button onclick="pesquisar()" class="bnt" type="submit">Pesquisar</button>
         </div>
     </header>
 
     <section>
         <div class="container">
             <div class="mapa">
-
+                <div id="map"></div>
             </div>
         </div>
     </section>
+
+    <footer>
+        <p>Site criado por Gabriel Alves dos Santos</p>
+        <p>ícones usados nas imagens:</p>
+        <a href="https://www.flaticon.com/br/icones-gratis/bateria" title="bateria ícones">Bateria ícones criados por Freepik</a>
+        <a href="https://www.flaticon.com/br/icones-gratis/lixeira-de-reciclagem" title="lixeira de reciclagem ícones">Lixeira de reciclagem ícones criados por Smashicons</a>
+        <a href="https://www.flaticon.com/br/icones-gratis/quebrado" title="quebrado ícones">Quebrado ícones criados por Freepik</a>
+    </footer>
+
+    <script src="./script.js"></script>
 </body>
 </html>
